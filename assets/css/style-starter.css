@@ -1,15 +1,5 @@
 @charset "UTF-8";
 
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
---*/
-/*!
- * Bootstrap v4.4.1 (https://getbootstrap.com/)
- * Copyright 2011-2019 The Bootstrap Authors
- * Copyright 2011-2019 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -14023,10 +14013,10 @@ a.text-dark:focus {
 }
 
 :root {
-  --primary-color: #30b300;
+  --primary-color: #ff003d;
   --secondary-color: #fdd340;
   --font-color: rgba(22, 28, 45, 0.7);
-  --bg-color: #fff;
+  --bg-color: #00dfc2;
   --heading-color: #252422;
   --border-radius: 6px;
   --border-radius-full: 35px;
@@ -14043,7 +14033,7 @@ a.text-dark:focus {
 }
 
 [data-theme="dark"] {
-  --primary-color: #30b300;
+  --primary-color: #00c9e9;
   --secondary-color: #fdd340;
   --font-color: #c2d0da;
   --bg-color: #232220;
@@ -18716,5 +18706,3 @@ div#small-dialog iframe {
     padding: 2em 0;
   }
 }
-
-/*# sourceMappingURL=style-freedom.css.map */
