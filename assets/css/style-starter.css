@@ -14016,7 +14016,7 @@ a.text-dark:focus {
   --primary-color: #ff003d;
   --secondary-color: #fdd340;
   --font-color: rgba(22, 28, 45, 0.7);
-  --bg-color: #00dfc2;
+  --bg-color: #f9ff00;
   --heading-color: #252422;
   --border-radius: 6px;
   --border-radius-full: 35px;
@@ -16645,7 +16645,7 @@ div#small-dialog iframe {
 /*--/inner-banner--*/
 .inner-banner {
   min-height: 260px;
-  background: url(../images/banner2.jpg) no-repeat center;
+  background: url(../images/banner4.jpg) no-repeat center;
   -ms-background-size: cover;
   background-size: cover;
   z-index: 0;
